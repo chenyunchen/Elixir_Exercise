@@ -1,8 +1,5 @@
-# Access Backend Exercise B
-Build an Voting Server to determine an issue about Wuhan coronavirus
-
-## Question
-Assume that we have a voting server that is designed for determining whether Wuhan coronavirus is created by China. The user can vote agree or disagree at any time. Please implement two APIs one is for voting and one is for retrieving the current votes count.
+# Backend Exercise
+Build an Voting Server to determine an issue
 
 ## Quick Start
 
